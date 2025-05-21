@@ -1,0 +1,5 @@
+pip install -r requirements.txt
+Get a free API key from Alpha Vantage
+pandas
+matplotlib
+requests
